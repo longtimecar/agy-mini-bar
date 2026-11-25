@@ -1,0 +1,7 @@
+{
+  "name": "agy-mini-bar",
+  "displayName": "极简 Token 底栏",
+  "version": "1.0.0",
+  "description": "在输入框正下方以极简一行展示对话轮步、生成速度、累计 Token、缓存命中、上下文占用与模型剩余额度。",
+  "logo": "logo.svg"
+}
